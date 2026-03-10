@@ -18,3 +18,4 @@ class MesDates
         return json_encode($resultat);
     }
 }
+?>
